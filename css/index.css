@@ -377,6 +377,7 @@ article a {
   color: black;
   padding: 5px 15px;
   border-radius: 10px;
+  margin-bottom: 5%;
 }
 p {
   margin-bottom: 4%;
@@ -388,3 +389,10 @@ h5 {
   margin: 4% 0;
 }
 /* end of about body */
+
+/* divider styles */
+.divider-style {
+  border-bottom: 1px dashed black;
+  /* margin-top: 5%; */
+}
+/* end of divider styles */
