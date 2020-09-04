@@ -246,3 +246,15 @@ footer nav a {
 }
 
 /* end of navbar */
+/* banner */
+#banner {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 3% 0;
+}
+/* end of banner */
